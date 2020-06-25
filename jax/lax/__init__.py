@@ -299,7 +299,6 @@ from .lax_control_flow import (
   linear_solve_p,
   map,
   scan,
-  scan_bind,
   scan_p,
   switch,
   while_loop,
